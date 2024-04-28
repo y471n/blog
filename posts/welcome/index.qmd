@@ -1,0 +1,18 @@
+---
+title: "Welcome To My Blog"
+author: "Yatin"
+date: "2024-04-28"
+categories: [news]
+---
+
+This is the first post in my AI/ML blog. Welcome!
+
+![](thumbnail.jpg)
+
+Hello world! Testing the new blog.
+
+```{python}
+7 * 6
+```
+
+is the answer to life.

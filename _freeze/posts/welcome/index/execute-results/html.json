@@ -1,0 +1,12 @@
+{
+  "hash": "fd878c085313555f1a9cc7994618510e",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"Welcome To My Blog\"\nauthor: \"Yatin\"\ndate: \"2024-04-28\"\ncategories: [news]\n---\n\nThis is the first post in my AI/ML blog. Welcome!\n\n![](thumbnail.jpg)\n\nHello world! Testing the new blog.\n\n::: {#dc2b4995 .cell execution_count=1}\n``` {.python .cell-code}\n7 * 6\n```\n\n::: {.cell-output .cell-output-display execution_count=3}\n```\n42\n```\n:::\n:::\n\n\nis the answer to life.\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
